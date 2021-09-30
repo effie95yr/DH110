@@ -32,7 +32,9 @@ The website is not designed as a very flexible one, as there is only one link to
 
 The website follows a minimalist design, as there is only necessary information available on the site. However, I found the sizes of the pictures and the texts on the website are not balanced very well. 
 
+The error messages of the website are not very clear, as one picture of an official of the OLA seems to be absent, but there is no clear error message beside it. 
 
+The search bar is quite visible at the right top corner of the website, so I think the website also does well in help and documentation. 
 
 I would rate the severity of issues as one, as mostly the website follows the principles of the 10 heuristics. 
 
