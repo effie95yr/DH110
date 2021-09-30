@@ -46,3 +46,19 @@ http://www.kauai.gov/
 
 The website of the Kauai government provides information on the responsibilities, policies, services, and organization of the county government. 
 
+The system status of the website is rather visible, as the navigation bar on the top and other links all have high visability. 
+
+The system and the real world are also matched well, as the website mainly uses user-friendly language. 
+
+Users also have freedom and control when browsing the site, as the link back to the home page is always visible. 
+
+The website does not maintain consistent standards very well, because the links that are supposed to serve different functions are maraked in the same way, which might make users hard to distinguish. For example, the navigation bar on the left side of the website uses the same underlined blue texts as other links on the website. 
+
+The error prevention of the website is not very effective either, as it lacks useful constraints to prevent users from mis-clicking links. In addition, the default visual center is the gallery of pictures of Kauai, but there are no links attached to the pictures, which might cause users confusion when they try to click on the most eye-catching element of the website. 
+
+The recognition of the website menus and links is also hard to achieve, as most of the links look too similar to each other. 
+
+
+
+
+
