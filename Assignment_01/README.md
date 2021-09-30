@@ -24,8 +24,17 @@ Users also have freedom and control when browsing the site, as the link back to 
 
 The website maintains consistent standards overall, but the preference of language button is not very eye-catching, though that might be one of the most important functions of the website. 
 
+I think the error prevention of the website is generally satisfying, as the links are all marked clearly and are separated from each other, which prevents unintentional slips. 
+
+The navaigation bar and the links of the website are marked in different ways to help users recognize instead of recalling each time when browsing the site. 
+
+The website is not designed as a very flexible one, as there is only one link to each webpage and the users hardly have other ways to navigate. 
+
+The website follows a minimalist design, as there is only necessary information available on the site. However, I found the sizes of the pictures and the texts on the website are not balanced very well. 
 
 
+
+I would rate the severity of issues as one, as mostly the website follows the principles of the 10 heuristics. 
 
 
 --- 
