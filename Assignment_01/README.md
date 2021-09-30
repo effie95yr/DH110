@@ -18,7 +18,13 @@ I think the OLA website fulfills the most heuristics overall.
 
 The system status of the website is quite visible, as all the links on the website are clearly marked with different font sizes or underlined texts. In addition, the nevigation bar on the top is also marked with multiple arrows pointing down, indicating that there are dropdown menus. 
 
-The system and the real world are also matched well, as the all the language used on the website is easy to read through. However, I found that the website only provides an English version, and as an office that aims to help those who do not read or speak English, I found the lack of translations into languages inconsistent with the purpose of the office. 
+The system and the real world are also matched well, as the all the language used on the website is easy to read through. However, I found that the website not only provides an English version, but also offers a variety of other languages as an office that aims to help those who do not read or speak English. I found the translations into languages consistent with the purpose of the office. 
+
+Users also have freedom and control when browsing the site, as the link back to the home page is always visible. 
+
+The website maintains consistent standards overall, but the preference of language button is not very eye-catching, though that might be one of the most important functions of the website. 
+
+
 
 
 
