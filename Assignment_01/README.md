@@ -12,13 +12,13 @@ In this project, I aim to analyze how the website of Hawaii government functions
 https://health.hawaii.gov/ola/
 ![Website of Office of Language Access of Hawaii State](hawaii_ola.png) 
 
-First of all, my motivation for chooseing to anaylze the website of the Office of Language Access (OLA henceforth)is my interest in how the Hawaaii government provide support for those who are Hawaii citizens but not native English speakers. According to the "about page" of the OLA "works to ensure that persons who do not speak, read, write, or understand English are able to access services, programs and activities provided by: State government agencies, courts, and schools; and State-funded organizations, including medical and social service providers". 
+First of all, my motivation for choosing to analyze the website of the Office of Language Access (OLA henceforth)is my interest in how the Hawaii government provides support for those who are Hawaii citizens but not native English speakers. According to the "about page" of the OLA "works to ensure that persons who do not speak, read, write, or understand English are able to access services, programs and activities provided by: State government agencies, courts, and schools; and State-funded organizations, including medical and social service providers". 
 
 I think the OLA website fulfills the most heuristics overall. 
 
-The system status of the website is quite visible, as all the links on the website are clearly marked with different font sizes or underlined texts. In addition, the nevigation bar on the top is also marked with multiple arrows pointing down, indicating that there are dropdown menus. 
+The system status of the website is quite visible, as all the links on the website are clearly marked with different font sizes or underlined texts. In addition, the navigation bar on the top is also marked with multiple arrows pointing down, indicating that there are dropdown menus. 
 
-The system and the real world are also matched well, as the all the language used on the website is easy to read through. However, I found that the website not only provides an English version, but also offers a variety of other languages as an office that aims to help those who do not read or speak English. I found the translations into languages consistent with the purpose of the office. 
+The system and the real world are also matched well, as all the language used on the website is easy to read through. However, I found that the website not only provides an English version, but also offers a variety of other languages as an office that aims to help those who do not read or speak English. I found the translations into languages consistent with the purpose of the office. 
 
 Users also have freedom and control when browsing the site, as the link back to the home page is always visible. 
 
@@ -26,7 +26,7 @@ The website maintains consistent standards overall, but the preference of langua
 
 I think the error prevention of the website is generally satisfying, as the links are all marked clearly and are separated from each other, which prevents unintentional slips. 
 
-The navaigation bar and the links of the website are marked in different ways to help users recognize instead of recalling each time when browsing the site. 
+The navigation bar and the links of the website are marked in different ways to help users recognize instead of recalling each time when browsing the site. 
 
 The website is not designed as a very flexible one, as there is only one link to each webpage and the users hardly have other ways to navigate. 
 
@@ -46,15 +46,15 @@ http://www.kauai.gov/
 
 The website of the Kauai government provides information on the responsibilities, policies, services, and organization of the county government. 
 
-The system status of the website is rather visible, as the navigation bar on the top and other links all have high visability. 
+The system status of the website is rather visible, as the navigation bar on the top and other links all have high visibility. 
 
 The system and the real world are also matched well, as the website mainly uses user-friendly language. 
 
 Users also have freedom and control when browsing the site, as the link back to the home page is always visible. 
 
-The website does not maintain consistent standards very well, because the links that are supposed to serve different functions are maraked in the same way, which might make users hard to distinguish. For example, the navigation bar on the left side of the website uses the same underlined blue texts as other links on the website. 
+The website does not maintain consistent standards very well, because the links that are supposed to serve different functions are marked in the same way, which might make it hard for users to distinguish. For example, the navigation bar on the left side of the website uses the same underlined blue texts as other links on the website. 
 
-The error prevention of the website is not very effective either, as it lacks useful constraints to prevent users from mis-clicking links. In addition, the default visual center is the gallery of pictures of Kauai, but there are no links attached to the pictures, which might cause users confusion when they try to click on the most eye-catching element of the website. 
+The error prevention of the website is not very effective either, as it lacks useful constraints to prevent users from clcking links by mistake. In addition, the default visual center is the gallery of pictures of Kauai, but there are no links attached to the pictures, which might cause users confusion when they try to click on the most eye-catching element of the website. 
 
 The recognition of the website menus and links is also hard to achieve, as most of the links look too similar to each other. 
 
@@ -62,8 +62,8 @@ The flexibility of the website is not very high because there is only one way to
 
 The website follows a minimalist design, but I think the problem is that it is so simple that a lot of necessary information is not available. 
 
-The website does not give any error message when I was browsing, so I was not sure whether the wesbite provides useful disgonisi and recovery of errors. 
+The website does not give any error message when I was browsing, so I was not sure whether the website provides useful diagnosis and recovery of errors. 
 
-There is a quite obvious search bar on the website, so the help function of website is satisfying. In addition, the search bar uses the conventional maginifier symbol, and is positioned at the right top corner of the website, which is also the conventional location of search bars on most websites, so I think in that regard, it does help users recognize instead of having them recall. 
+There is an obvious search bar on the website, so the help function of the website is satisfying. In addition, the search bar uses the conventional magnifier symbol, and is positioned at the right top corner of the website, which is also the conventional location of search bars on most websites, so I think in that regard, it does help users recognize instead of having them recall. 
 
 My severity rating of this website is 2. 
