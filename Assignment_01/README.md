@@ -58,7 +58,10 @@ The error prevention of the website is not very effective either, as it lacks us
 
 The recognition of the website menus and links is also hard to achieve, as most of the links look too similar to each other. 
 
+The flexibility of the website is not very high because there is only one way to navigate to each page. 
+
+The website follows a minimalist design, but I think the problem is that it is so simple that a lot of necessary information is not available. 
 
 
 
-
+My severity rating of this website is 2. 
