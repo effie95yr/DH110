@@ -62,6 +62,8 @@ The flexibility of the website is not very high because there is only one way to
 
 The website follows a minimalist design, but I think the problem is that it is so simple that a lot of necessary information is not available. 
 
+The website does not give any error message when I was browsing, so I was not sure whether the wesbite provides useful disgonisi and recovery of errors. 
 
+There is a quite obvious search bar on the website, so the help function of website is satisfying. In addition, the search bar uses the conventional maginifier symbol, and is positioned at the right top corner of the website, which is also the conventional location of search bars on most websites, so I think in that regard, it does help users recognize instead of having them recall. 
 
 My severity rating of this website is 2. 
