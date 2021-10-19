@@ -46,5 +46,11 @@ Please see the screenrecording video here.
 
 Please see the trasncript of the interview here. 
 
+First of all, the 
 
+> 
+
+### Reflection 
+
+The study  presented me the potential needs of the target users when performing the focus activity, which allowed me to further adjust my design. Nonetheless, the contextual inquiry was far from complete. First of all, due to the small size of data, the information I gained from this particular session might not be generalized to all the target users of the design. In addition, as the instructions of focus activity in the study were not given clearly, the participant ended up describing what she usually did when she planned previous trips instead of actually showing the steps. Overall, the contextual inquiry was insightful as it provided me with the necessary information on how target users tend to solve the target problem with more traditional solutions, the limitations of which I should work on to solve with my design. 
 
