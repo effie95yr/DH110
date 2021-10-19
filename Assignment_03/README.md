@@ -22,3 +22,29 @@ The goal of the activity is to make users search for the information they priori
 
 ### Research Methods 
 
+In order to gain insights on how users search for travel-related information on the Internet, I decided to conduct a contextual inquiry. 
+
+I recruited one participant for my contextual inquiry. The participant is a friend of mine, whose demographic background, preferences, and expertise fit the potential target users of the design. The participant is a frequent traveler, enjoys travelling as a hobby, is familiar with designing trips by herself, and is familiar with employing Internet resources to gain information. 
+
+Since the activity is designed to be conducted online, I chose to conduct the contextual inquiry virtually. As tracking participants’ constant moves on the Internet might be difficult, I decided to take advantage of the screen recording function of Zoom and asked the participant to demonstrate the activity with her computer screen being recorded. 
+
+In the very beginning of the contextual inquiry, I asked for the content of the participant of screen-recording, read through the guide of the study, and informed the participant that her personal information would only be shared within the class. 
+
+Then  I started to gather demographic information. I asked the participant about her name, her occupation, and how she uses her computer. 
+
+Then I initiated the questions that were specifically relevant to the current study. I asked the participant for her opinions on travelling, her frequency of travelling, and her preferences of planning trips. 
+
+In the next step, I asked the participant to start the activity, which was to search for the information she prioritizes the most when she plans a trip to somewhere she has never been to before. During the activity, the participant was asked to think out loud and describe each step verbally. 
+
+After the completion of the activity, I asked the participant whether she was satisfied with the results and asked follow-up questions according to her answers. 
+
+Please see the attached script here for a more detailed interview script. 
+
+### Data Analysis
+
+Please see the screenrecording video here. 
+
+Please see the trasncript of the interview here. 
+
+
+
