@@ -50,6 +50,7 @@ First of all, the participant prioritizes the transportation the most when she s
 
 As for the specific itinerary, the participant highly relied on reviews of previous travellers to gather basic information about accommodations, local transportation, and tourist attractions. The first resource the participant turned to was a Chinese BBS website where people share travel stories. 
 > I think I generally will just go to Qiongyou first, just like to read, to read through others like travel stories.
+
 > I'd like to read about people, then when you read about more people, so you find they do similar things.
 
 Another resource that the participant chose was the official local government website of the destination. According to the participant, the official government website could offer more accurate, up-to-date, and objective information. The participant also found the local health protocols particularly helpful during the pandemic. 
