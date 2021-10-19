@@ -38,13 +38,13 @@ In the next step, I asked the participant to start the activity, which was to se
 
 After the completion of the activity, I asked the participant whether she was satisfied with the results and asked follow-up questions according to her answers. 
 
-Please see the attached script here for a more detailed interview script. 
+Please see the attached script [here](https://github.com/effie95yr/DH110/blob/main/Assignment_03/DH%20110%20Assignment%203%20Guide%20Script.pdf) for a more detailed interview script. 
 
 ### Data Analysis
 
-Please see the screenrecording video here. 
+Please see the screenrecording video [here](https://ucla.zoom.us/rec/share/EPoBrgjfSiAf_MHbhY2eAkQSE-hKUvKnB5emZzRaw4SoQUH02TIfBeBq4D1MVYyd.fc2PQ3ErLwxgl-CM?startTime=1634604206000)(Passcode: dh110hw03!). 
 
-Please see the trasncript of the interview here. 
+Please see the trasncript of the interview [here](https://github.com/effie95yr/DH110/blob/main/Assignment_03/DH110_assignment03_transcript.txt). 
 
 First of all, the participant prioritizes the transportation the most when she starts to plan a trip. The very first step of the participant was to search for the cost of round-trip flights to the destination. 
 
