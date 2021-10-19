@@ -42,7 +42,7 @@ Please see the attached script [here](https://github.com/effie95yr/DH110/blob/ma
 
 ### Data Analysis
 
-Please see the screenrecording video [here](https://ucla.zoom.us/rec/share/EPoBrgjfSiAf_MHbhY2eAkQSE-hKUvKnB5emZzRaw4SoQUH02TIfBeBq4D1MVYyd.fc2PQ3ErLwxgl-CM?startTime=1634604206000)(Passcode: dh110hw03!). 
+Please see the screenrecording video [here](https://ucla.zoom.us/rec/share/EPoBrgjfSiAf_MHbhY2eAkQSE-hKUvKnB5emZzRaw4SoQUH02TIfBeBq4D1MVYyd.fc2PQ3ErLwxgl-CM?startTime=1634604206000) (Passcode: dh110hw03!). 
 
 Please see the trasncript of the interview [here](https://github.com/effie95yr/DH110/blob/main/Assignment_03/DH110_assignment03_transcript.txt). 
 
