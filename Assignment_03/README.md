@@ -56,6 +56,12 @@ As for the specific itinerary, the participant highly relied on reviews of previ
 Another resource that the participant chose was the official local government website of the destination. According to the participant, the official government website could offer more accurate, up-to-date, and objective information. The participant also found the local health protocols particularly helpful during the pandemic. 
 >It’s like real official websites kind of like allow you to be able to get access to the most updated things you know what's going on, like if anything changed because of the COVID.
 
+When reflecting on the activity, the participant provided the feedback that one critical issue with the government website was that the high density of the information made it hard for users to quickly access the necessary information. 
+
+> There's just too much information you need... and you cannot find it like two places.
+
+> I think it's just why I was like looking on Qiongyou (the BBS website). I think I'm looking for like a bigger picture of like where I want to go and similar to like how you have a bigger picture of like what is there.
+
 ### Reflection 
 
 The study  presented me the potential needs of the target users when performing the focus activity, which allowed me to further adjust my design. Nonetheless, the contextual inquiry was far from complete. First of all, due to the small size of data, the information I gained from this particular session might not be generalized to all the target users of the design. In addition, as the instructions of focus activity in the study were not given clearly, the participant ended up describing what she usually did when she planned previous trips instead of actually showing the steps. Overall, the contextual inquiry was insightful as it provided me with the necessary information on how target users tend to solve the target problem with more traditional solutions, the limitations of which I should work on to solve with my design. 
