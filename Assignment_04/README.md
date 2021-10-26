@@ -17,3 +17,11 @@ The purpose of UX storytelling in general is to first of all identify the potent
 ## Persona and Empathy Map of Grace King 
 ![Persona of Grace King](Persona2.png)
 ![Empathy Map of Grace King](EmpathyMap2.png)
+
+## Scenario 1 with Isabella Chan 
+### Why 
+### How
+
+## Scenario 2 with Grace King 
+### Why 
+### How
