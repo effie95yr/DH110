@@ -8,7 +8,7 @@ The purpose of UX storytelling in general is to first of all identify the potent
 
 ## Design Features 
 * An interactive map that allows people to browse pictures taken at the destination, which further link to the destination and the travel diaries of users. 
-* A travel itinerary template that allows people to extract information from the travel stories of other users and add it to self-created travel plans. 
+* A travel itinerary portal that allows people to create, edit, and manage their travel plans.
 
 ## Persona and Empathy Map of Isabella Chan
 ![Persona of Isabella Chan](Persona1.png)
