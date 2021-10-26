@@ -21,7 +21,9 @@ The purpose of UX storytelling in general is to first of all identify the potent
 ## Scenario 1 with Isabella Chan 
 ### Why 
 ### How
+![Journey Map of Isabella Chan](JourneyMap1.png)
 
 ## Scenario 2 with Grace King 
 ### Why 
 ### How
+![Journey Map of Grace King](JourneyMap2.png)
