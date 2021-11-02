@@ -30,9 +30,15 @@ Please find the wireframes and the wireflows [here](https://www.figma.com/file/Z
 ## Prototype Testing 
 ### Task 1 
 ![Task1](Task1_1.png)
+> What should I do with the search bar? Should I just pretend that I can input a destination? 
+
 ![Task1](Task1_2.png)
 ![Task1](Task1_3.png)
+> So the red circle means that I should click on it? 
+
 ![Task1](Task1_4.png)
+> For the "back" button, do I go back to the map or? 
+
 ![Task1](Task1_5.png)
 ![Task1](Task1_6.png)
 
@@ -42,7 +48,8 @@ Please find the wireframes and the wireflows [here](https://www.figma.com/file/Z
 ![Task2](Task2_3.png)
 ![Task2](Task2_4.png)
 ![Task2](Task2_5.png)
-![Task2](Task2_6.png)
+> So I'll go back to the search results of "New York" even though I didn't log in when I searched? 
 
+![Task2](Task2_6.png)
 
 ## Reflection 
