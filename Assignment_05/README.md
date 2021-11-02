@@ -20,7 +20,7 @@ An interactive map that allows people to browse pictures taken at the destinatio
 ### Task 2 
 A travel itinerary portal that allows people to create, edit, and manage their travel plans.
 
->The user is also able create an account. On the user's own page, they can find a plus sign on the top. She touches the plus sign and a few options pop out, including travel diary, itinerary, budget plan, and travel log. When the user touches "itinerary", a series of default templates pop out for her to choose from.
+>After logging in, On the user's own page, they can find a plus sign on the top. She touches the plus sign and a few options pop out, including travel diary, itinerary, budget plan, and travel log. When the user touches "itinerary", a series of default templates pop out for her to choose from.
 
 
 
