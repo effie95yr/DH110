@@ -28,6 +28,16 @@ A travel itinerary portal that allows people to create, edit, and manage their t
 ## Wireframes and Wireflows 
 Please find the wireframes and the wireflows [here](https://www.figma.com/file/Zd7uHoFcbqqITYlIWeqtld/DH110-Assignment06)
 ## Prototype Testing 
+I asked the participant to go to the figma page and walk through the wireflow. First of all, I asked the participant to test the first task. 
+![Task1](Task1_1.png)
+![Task1](Task1_2.png)
+![Task1](Task1_3.png)
+![Task1](Task1_4.png)
+![Task1](Task1_5.png)
+![Task1](Task1_6.png)
+
+
+
 
 
 ## Reflection 
