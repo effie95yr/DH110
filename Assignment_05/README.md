@@ -26,7 +26,7 @@ A travel itinerary portal that allows people to create, edit, and manage their t
 
 
 ## Wireframes and Wireflows 
-Please find the wireframes and the wireflows[here](https://www.figma.com/file/Zd7uHoFcbqqITYlIWeqtld/DH110-Assignment06)
+Please find the wireframes and the wireflows [here](https://www.figma.com/file/Zd7uHoFcbqqITYlIWeqtld/DH110-Assignment06)
 ## Prototype Testing 
 
 
