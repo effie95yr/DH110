@@ -42,12 +42,17 @@ Therefore, I set the roundness of all the elements to 10, and I think it seemed 
 
 
 #### Variation 3
-
+Thus I chose to make the roundness of all the elements to 10, including the search box, the interactive map, the overlay of search results, the buttons, as well as the photos to make the style consistent. 
 
 
 ---
 ### Bright Color Mode
+I excracted five colors from the logo and the color theme of the official Hawaii government website. 
+
 #### Variation 1 
+I adapted color #FCFAED
+
+
 #### Variation 2
 #### Accessibility Check 
 
