@@ -106,28 +106,38 @@ Based on the feedback of the participant, I changed the roundness setting of the
 Please find the final version of the interface design page [here](https://www.figma.com/file/eiAJlyZpljX0ExSSnHuCWu/DH110-Assignment06?node-id=2%3A5).  
 The detailed information of the interface design system is:
 ### Typography 
-Typeface: 
-Body text: 
-Title text: 
-Button label: 
-Caption: 
-Letter-spacing: 
-Line-spacing: 
-Padding: 
+Typeface of brand name: Pacifico
+Typerface of text: Quattrocento Sans
+Brand name size: 30
+Body text size: 20
+Title text size: 26
+Button label: 20
+Caption: 20
+Letter-spacing: Default
+Line-spacing: 1.5
+Padding: Center alignment 
 
 ### Shape 
+Roundeness setting of buttons: 10
+Roundeness setting of interactive map: 10
+Roundeness setting of search result overlay: 10
+Roundeness setting of photos: 0 
+Roundeness setting of bottom left photo: 10 for the bottom left corner, 0 for the rest 
+Roundeness setting of bottom right photo: 10 for the bottom right corner, 0 for the rest 
+
 
 ### Bright Color Mode 
-Background color: 
-Text color: 
-Button color: 
-Button Label color: 
+Background color of frame: #FCFAED
+Primary color: #1F2904
+Focus color of search box: #CFDBAD 
+Focus color of log-in button: #FFDD6E
+Background color of overlay: BAB5AB
 
 ### Dark Color Mode 
-Background color: 
-Text color: 
-Button color: 
-Button Label color: 
+Background color: 1F2904
+Primary color: #FCFAED
+Focus color of search box: #585E48
+Focus color of log-in button and overlay: #54524E
 
 ### Layout 
 8 columns and 14 rows 
