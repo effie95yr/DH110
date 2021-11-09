@@ -10,12 +10,13 @@ Please find the digitized wireflow [here](https://www.figma.com/file/Zd7uHoFcbqq
 
 ## Interface Design Variation 
 ### Typography 
-
+#### Variation 1 
 
 ### Shape 
 
 
 ### Color 
+
 
 
 ## Accessibility Check 
