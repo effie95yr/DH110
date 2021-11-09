@@ -79,7 +79,7 @@ All the elements on the page passed the level AAA ratio of color contrasts.
 ---
 ### Dark Color Mode
 
-![Dark Mode Variation 1](Dark2.png)
+![Dark Mode Variation 1](Dark1.png)
 
 #### Accessibility Check 
 All the elements on the page passed the level AAA ratio of color contrasts except for the search box, which passed the level AA ratio. 
