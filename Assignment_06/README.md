@@ -50,19 +50,27 @@ Thus I chose to make the roundness of all the elements to 10, including the sear
 I excracted five colors from the logo and the color theme of the official Hawaii government website. 
 
 #### Variation 1 
-I adapted color #FCFAED
+I adapted color #FEF9EF, which is the background color the Hawaii logo, as the background color of the page, as it is already very bright. I adjusted the brightness of the color #708E20 and got #1F2904 as the primary color. I then adjusted the brightness and satuation of #E0C389 to make a focus color. 
+
 
 
 #### Variation 2
+It turns out that the first color theme seems too monotonous, so I tried the other colors from the color theme extracted from the Hawaii logo. I tried to choose different colors for the search box and the log-in buttons to make them noticeable. I also chose a less bright and satuarated background color for the overlay in order to make a contrast with the photos. 
+
+
 #### Accessibility Check 
+All the elements on the page passed the level AAA ratio of color contrasts.  
 
 ---
 ### Dark Color Mode
-#### Variation 1 
-#### Variation 2
+
+
 #### Accessibility Check 
+All the elements on the page passed the level AAA ratio of color contrasts except for the search box, which passed the level AA ratio. 
+
 ---
 ## Impression Test 
+
 
 
 ---
