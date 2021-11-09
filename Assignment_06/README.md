@@ -92,11 +92,17 @@ All the elements on the page passed the level AAA ratio of color contrasts excep
 
 ---
 ## Impression Test 
+I  presented both the bright mode and dark mode interfaces to the participant and she told me that overall the color themes and the shapes looked good. Specifically, she said that she liked the rounded corners of the buttons and the style of the fonts, especially the font of "Travel in Hawaii". Nonetheless, she 抵did mention that the background color of the photo gallery look similar to the color of sand, which made it not contrastive enough with the pictures of beach. In addition, she also mentioned that the corners of the photos in the photo gallery might be too rounded that they looked like clickable icons instead of photos. Regarding the dark mode, the participant said that it looked satisfying, except for the interactive map, which was a little inconsistent as it was too bright. 
 
+## Update based on Impression Test 
+Based on the feedback of the participant, I changed the roundness setting of the photos in the photo gallery back to 0 to avoid users from recognizing them as icons. I also changed the background color of the overlay to make a shaper contrast with the photos. The contrast of the new background color and the text still passed the level AAA ratio. 
 
+![Final Interface 1](Final.png)
+
+![Final Contrast](FinalContrast.png)
 
 ---
-## Interface Design Page 
+## Final Interface Design Page 
 Please find the final version of the interface design page [here](https://www.figma.com/file/eiAJlyZpljX0ExSSnHuCWu/DH110-Assignment06?node-id=2%3A5).  
 The detailed information of the interface design system is:
 ### Typography 
