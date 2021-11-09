@@ -5,27 +5,42 @@
 ## Project Description 
 During the initial contextual inquiry, I found that while travelers would like to turn to government website for accurate and official informatino, such as health protocals during the pandemic, they still tend to brwose travel forums to know about the travel experiences of previous visitors. Thus, I would like to design an application to combine the functions of official travel guides and travel forums targeting the potential tralvelers who are interested in visiting Hawaii. First of all, this application aims to keep synchronous with the official government website and provide accurate and up-to-date travel information for visitors. Specifically, the application aims to allow travelers in Hawaii to browse sightseeing attractions, upload travel photos and diaries, and interact with other travellers. In addition, the application also aims to 
 
+---
 ## Digitized Wireflow 
 Please find the digitized wireflow [here](https://www.figma.com/file/Zd7uHoFcbqqITYlIWeqtld/DH110-Assignment06). 
 
+---
 ## Interface Design Variation 
 ### Typography 
 #### Variation 1 
+#### Variation 2
+#### Variation 3
 
+---
 ### Shape 
+#### Variation 1 
+#### Variation 2
+#### Variation 3
 
+---
+### Bright Color Mode
+#### Variation 1 
+#### Variation 2
 
-### Color 
+---
+### Dark Color Mode
+#### Variation 1 
+#### Variation 2
 
-
-
+---
 ## Accessibility Check 
 
 
+---
 ## Impression Test 
 
 
-
+---
 ## Interface Design Page 
 Please find the final version of the interface design page [here](https://www.figma.com/file/eiAJlyZpljX0ExSSnHuCWu/DH110-Assignment06?node-id=2%3A5).  
 The detailed information of the interface design system is:
