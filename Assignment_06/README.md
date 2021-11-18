@@ -32,6 +32,13 @@ The third typerface I chose was Quattrocento Sans, which seemed the most ideal s
 ![Typography Variation 3](Typography3.png)
 
 ---
+### Layour 
+I set the layout with 14 rows and 8 columns as shown in the picture below. I tried to set the layout with more rows than conclumns as the wireframes are designed for display on mobile phones and in this way I could make square-like grids. In addition, smaller, square-like grids would allow me to have buttons of a relatively small size. 
+
+I set the gutter and margin both as 10, because I wanted to keep the distance between the elements and the distance from the border of the screen consistent. 
+
+![Layour](Layout.png)
+
 ### Shape 
 #### Variation 1 
 First of all, I chose three different roundness settings for different elements on the page. I set the roundness of the search box to 20, that of the buttons to 10, and that of the overlay to 0. I originally thought that having distinc roundness settings may help users distinguish different funcitons, but I felt that actually it looked quite inconsistent. 
