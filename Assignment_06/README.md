@@ -17,7 +17,7 @@ I set the layout with 14 rows and 8 columns as shown in the picture below. I tri
 
 I set the gutter and margin both as 10, because I wanted to keep the distance between the elements and the distance from the border of the screen consistent. 
 
-![Layour](Layout.png)
+![Layout](layout.png)
 
 ### Typography 
 #### Variation 1 
