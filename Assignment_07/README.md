@@ -15,6 +15,22 @@ The interactive prototype was developed based on the low-fidelity prototype. In 
 > Potential users will be able to search for specific sightseeing locations in Hawaii, view them on an interactive map, check the accurate and updated information about the locations, such as health protocals, as well as check the photos and travel diaries of other travelers that have been uploaded to the page. 
 
 ## Wireflow with Interface Design 
+Plesase check the wireflow with the interface design [here](https://www.figma.com/file/QOjbM6N4G981K4gHLX7D6X/DH-110-Assignment-07?node-id=0%3A1).
+
+![Wireflow](High_fidelity_2.png)
+
+## Graphic Design 
+Here is the graphic design of the high-fidelity prototype. Most of the elements are the same with the initial interface design, but I changed the log-in and sign-up buttons into one button, represented by a "person" icon. I also added an additional button on the right top corner of the screen, which allows users to create travel diaries, budget plans, and itinearies without navigating to their personal blog page first. 
+
+I also changed the color theme of the application. While the background color and the text color are the same, I set the background of the overlay with a dark green color to cater to the theme of nature. 
+
+I also added two new colors to the color theme for the "user account" button and the "create travel diaries" buttons to make them noticeable enough. All the new colors have passed the WCAG2.0 AA level color contrast (3:1) (I chose the 3:1 ratio because all the new colors were added for buttons without small-font texts). 
+
+![Graphic1](graphic1.png)
+
+![Graphic2](graphic2.png)
+
+![Graphic3](graphic3.png)
 
 
 ## Interactive Prototype 
