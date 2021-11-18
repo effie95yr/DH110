@@ -34,9 +34,14 @@ I also added two new colors to the color theme for the "user account" button and
 
 
 ## Interactive Prototype 
+Plesase check the interactive flow [here](https://www.figma.com/file/QOjbM6N4G981K4gHLX7D6X/DH-110-Assignment-07?node-id=0%3A1). 
 
+The interactive prototype is located to the right of the wireflow. 
 
 ## Cognitive Walkthrough 
+I received feedback on the cognitive walkthough from two classmates and I also recruited one additional participant. The cognitive walkthrough was conducted online. I showed the participant the interactive prototype and used the following four questions to evaluate the walkthrough. 
+
+>Will the user try and achieve the right outcome? Will the user notice that the correct action is available to them? Will the user associate the correct action with the outcome they expect to achieve? If the correct action is performed; will the user see that progress is being made towards their intended outcome?
 
 
 ## Revision 
