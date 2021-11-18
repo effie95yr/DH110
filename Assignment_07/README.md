@@ -26,7 +26,7 @@ I also changed the color theme of the application. While the background color an
 
 I also added two new colors to the color theme for the "user account" button and the "create travel diaries" buttons to make them noticeable enough. All the new colors have passed the WCAG2.0 AA level color contrast (3:1) (I chose the 3:1 ratio because all the new colors were added for buttons without small-font texts). 
 
-![Graphic1](graphic1.png)
+![Graphic1](grahic1.png)
 
 ![Graphic2](graphic2.png)
 
@@ -39,10 +39,47 @@ Plesase check the interactive flow [here](https://www.figma.com/file/QOjbM6N4G98
 The interactive prototype is located to the right of the wireflow. 
 
 ## Cognitive Walkthrough 
-I received feedback on the cognitive walkthough from two classmates and I also recruited one additional participant. The cognitive walkthrough was conducted online. I showed the participant the interactive prototype and used the following four questions to evaluate the walkthrough. 
+I received feedback on the cognitive walkthough from two classmates and I also recruited one additional participant. The cognitive walkthrough was conducted online. I used the following four questions to evaluate the walkthrough. 
 
->Will the user try and achieve the right outcome? Will the user notice that the correct action is available to them? Will the user associate the correct action with the outcome they expect to achieve? If the correct action is performed; will the user see that progress is being made towards their intended outcome?
+> 1. Will the user try and achieve the right outcome? 2. Will the user notice that the correct action is available to them? 3. Will the user associate the correct action with the outcome they expect to achieve? 4. If the correct action is performed; will the user see that progress is being made towards their intended outcome?
 
+### Task 1 
+Action 1: On the first page, locate the user account button. 
+Walkthrough: yes, yes, yes, and yes 
+
+Action 2: Click on the account button. 
+Walkthrough: yes, yes, yes, and yes
+
+Action 3: Locate the "create new travel diaries button" 
+Walkthrough: yes, yes, yes, and yes
+
+Action 3: Click on the "create new travel diaries button" 
+Walkthrough: yes, yes, yes, and yes
+
+### Task 2 
+Action 1: On the first page, locate the search bar. 
+Walkthrough: yes, no, yes, and yes 
+> The user was not sure how to type in the search bar. 
+
+Action 2: Click on "Waikiki" on the map . 
+Walkthrough: yes, yes, yes, and yes
+
+Action 3: Click on a photo in the photo gallery overlay.  
+Walkthrough: yes, no, no, and yes
+> The user was distracted by the icons surrouding the name of the sightseeing, which I used to label what amenities were available at the sightseeing location. The user was a little bit confused about the meanings of the labels. The user then clicked on a photo and moved forward.  
+
+Action 4: Click on the "read full diary" text. 
+Walkthrough: yes, yes, yes, and yes
+
+Action 5: At the diary page, locate the author's name. 
+Walkthrough: yes, yes, yes, and yes 
+
+Action 6: Click on the name to access the author's personal blog page. 
+Walkthrough: yes, no, no, and yes. 
+> The user was not sure whether the name was clickable. 
 
 ## Revision 
+Based on the feedback from the cognitive walkthrough, I added overlay frames to the labels of amentities to inform the users the meanings of those labels. 
+
+Please find the uodated wireflow and interactive protoype [here](https://www.figma.com/file/J6v3tDVyvBXsvCHMO4oEHy/DH-110-Assignment-07-second).
 
