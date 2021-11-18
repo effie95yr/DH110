@@ -3,7 +3,7 @@
 ## Assignment 06: Interface Design 
 ---
 ## Project Description 
-During the initial contextual inquiry, I found that while travelers would like to turn to government website for accurate and official informatino, such as health protocals during the pandemic, they still tend to brwose travel forums to know about the travel experiences of previous visitors. Thus, I would like to design an application to combine the functions of official travel guides and travel forums targeting the potential tralvelers who are interested in visiting Hawaii. First of all, this application aims to keep synchronous with the official government website and provide accurate and up-to-date travel information for visitors. Specifically, the application aims to allow travelers in Hawaii to browse sightseeing attractions, upload travel photos and diaries, and interact with other travellers. In addition, the application also aims to 
+During the initial contextual inquiry, I found that while travelers would like to turn to government website for accurate and official informatino, such as health protocals during the pandemic, they still tend to brwose travel forums to know about the travel experiences of previous visitors. Thus, I would like to design an application to combine the functions of official travel guides and travel forums targeting the potential tralvelers who are interested in visiting Hawaii. First of all, this application aims to keep synchronous with the official government website and provide accurate and up-to-date travel information for visitors. Specifically, the application aims to allow travelers in Hawaii to browse sightseeing attractions, upload travel photos and diaries, and interact with other travellers. In addition, the application also aims to help potential travellers to Hawaii create and manage their itineraries, budget plans, and travel logs.
 
 ---
 ## Digitized Wireflow 
@@ -11,6 +11,14 @@ Please find the digitized wireflow [here](https://www.figma.com/file/Zd7uHoFcbqq
 
 ---
 ## Interface Design Variation 
+
+### Layout
+I set the layout with 14 rows and 8 columns as shown in the picture below. I tried to set the layout with more rows than conclumns as the wireframes are designed for display on mobile phones and in this way I could make square-like grids. In addition, smaller, square-like grids would allow me to have buttons of a relatively small size. 
+
+I set the gutter and margin both as 10, because I wanted to keep the distance between the elements and the distance from the border of the screen consistent. 
+
+![Layour](Layout.png)
+
 ### Typography 
 #### Variation 1 
 The first typerface familites I chose include Pacifico for the brand name and Karla for the rest of the text, including body text, button label, and caption. I would like to display the brand name in an significantly different typerface in order to make it eye-catching enough so that users may recognize it. For the rest of the text, I would like to make it consitent so that the interface can be displayed in a simple, minimalistic style. Thus, I chose Karla, which looks quite similar to the font on the official government of Hawaii. 
@@ -32,12 +40,6 @@ The third typerface I chose was Quattrocento Sans, which seemed the most ideal s
 ![Typography Variation 3](Typography3.png)
 
 ---
-### Layour 
-I set the layout with 14 rows and 8 columns as shown in the picture below. I tried to set the layout with more rows than conclumns as the wireframes are designed for display on mobile phones and in this way I could make square-like grids. In addition, smaller, square-like grids would allow me to have buttons of a relatively small size. 
-
-I set the gutter and margin both as 10, because I wanted to keep the distance between the elements and the distance from the border of the screen consistent. 
-
-![Layour](Layout.png)
 
 ### Shape 
 #### Variation 1 
