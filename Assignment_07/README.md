@@ -34,7 +34,9 @@ I also added two new colors to the color theme for the "user account" button and
 
 
 ## Interactive Prototype 
-Plesase check the interactive flow [here](https://www.figma.com/file/QOjbM6N4G981K4gHLX7D6X/DH-110-Assignment-07?node-id=0%3A1). 
+Plesase check the interactive prototype [here](https://www.figma.com/proto/QOjbM6N4G981K4gHLX7D6X/DH-110-Assignment-07?node-id=21%3A112&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=21%3A112).
+
+You may also check the prototype in the editor [here](https://www.figma.com/file/QOjbM6N4G981K4gHLX7D6X/DH-110-Assignment-07?node-id=0%3A1). 
 
 The interactive prototype is located to the right of the wireflow. 
 
