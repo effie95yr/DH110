@@ -17,7 +17,7 @@ The interactive prototype was developed based on the low-fidelity prototype. In 
 ## Wireflow with Interface Design 
 Plesase check the wireflow with the interface design [here](https://www.figma.com/file/QOjbM6N4G981K4gHLX7D6X/DH-110-Assignment-07?node-id=0%3A1).
 
-![Wireflow](High_fidelity_2.png)
+![Wireflow](High_fidelity_1.png)
 
 ## Graphic Design 
 Here is the graphic design of the high-fidelity prototype. Most of the elements are the same with the initial interface design, but I changed the log-in and sign-up buttons into one button, represented by a "person" icon. I also added an additional button on the right top corner of the screen, which allows users to create travel diaries, budget plans, and itinearies without navigating to their personal blog page first. 
@@ -84,6 +84,8 @@ Walkthrough: yes, no, no, and yes.
 
 ## Revision 
 Based on the feedback from the cognitive walkthrough, I added overlay frames to the labels of amentities to inform the users the meanings of those labels. The newly added feature is that if the user clicks on a label, an overlay containing the meaning of the label will appear. 
+
+![Wireflow](High_fidelity_2.png)
 
 Please find the uodated wireflow [here](https://www.figma.com/file/J6v3tDVyvBXsvCHMO4oEHy/DH-110-Assignment-07-second). 
 
