@@ -38,6 +38,8 @@ Plesase check the interactive flow [here](https://www.figma.com/file/QOjbM6N4G98
 
 The interactive prototype is located to the right of the wireflow. 
 
+This is the revised version based on the feedback of the cognitive walkthrough. 
+
 ## Cognitive Walkthrough 
 I received feedback on the cognitive walkthough from two classmates and I also recruited one additional participant. The cognitive walkthrough was conducted online. I used the following four questions to evaluate the walkthrough. 
 
@@ -79,7 +81,9 @@ Walkthrough: yes, no, no, and yes.
 > The user was not sure whether the name was clickable. 
 
 ## Revision 
-Based on the feedback from the cognitive walkthrough, I added overlay frames to the labels of amentities to inform the users the meanings of those labels. 
+Based on the feedback from the cognitive walkthrough, I added overlay frames to the labels of amentities to inform the users the meanings of those labels. The newly added feature is that if the user clicks on a label, an overlay containing the meaning of the label will appear. 
 
-Please find the uodated wireflow and interactive protoype [here](https://www.figma.com/file/J6v3tDVyvBXsvCHMO4oEHy/DH-110-Assignment-07-second).
+Please find the uodated wireflow [here](https://www.figma.com/file/J6v3tDVyvBXsvCHMO4oEHy/DH-110-Assignment-07-second). 
+
+The interactive prototype is already the updated version. 
 
