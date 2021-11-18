@@ -18,12 +18,19 @@ Summary and link to your assignment folder
 Summary and link to your assignment folder
 
 ###  Wireframe and graphic design element variation [assignment05 + part of 06]
+![Graphic1](graphic1.png)
+
+![Graphic2](graphic2.png)
+
+![Graphic3](graphic3.png)
+
 
 ### Low-fidelity prototype (wireflow, assignment06)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
 
 ### High-fidelity prototype (functional/interactive prototype, assignment07)
 Summary statement and link to or an embedded prototype
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FJ6v3tDVyvBXsvCHMO4oEHy%2FDH-110-Assignment-07-second%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
 ### Optional evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
