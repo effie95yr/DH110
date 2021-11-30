@@ -26,9 +26,9 @@ Read more about the [contexual inquiry](https://github.com/effie95yr/DH110/tree/
 ## UX Storytelling
 The first goal of my UX storytelling is to create personas that represent the potential users of my design, which is a website that helps travellers create and share travel plans based on accurate and up-to-date information. The second goal of my UX storytelling is to generate possible scenarios in which the potential users may find the design helpful. With UX Storytelling, I intend to put myself in the potential users' shoes and try to visualize their needs and challeges. I designed two personas for the project. The needs of the first persona is to interact with other travelers oneline and share her own travel memories. The needs of the second persona is to find ideal destinations of her family trip and to make trip plans, budget plans, and travel logs.
 
-<img src="https://github.com/effie95yr/DH110/blob/main/Assignment_04/Persona1.png" alt="persona 1" height="300px">
+![Persona 1](https://github.com/effie95yr/DH110/blob/main/Assignment_04/Persona1.png)
 
-<img src="https://github.com/effie95yr/DH110/blob/main/Assignment_04/Persona2.png" alt="persona 2" height="300px">
+![Persona 2](https://github.com/effie95yr/DH110/blob/main/Assignment_04/Persona2.png)
 
 Read more about the [empathy maps, journey maps, and personas](https://github.com/effie95yr/DH110/tree/main/Assignment_03#readme). 
 
