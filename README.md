@@ -131,7 +131,13 @@ Read more about the [impression test](https://github.com/effie95yr/DH110/tree/ma
 
 ## Final prototype
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FQOjbM6N4G981K4gHLX7D6X%2FDH-110-Assignment-07%3Fnode-id%3D21%253A112%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D21%253A112" allowfullscreen></iframe>
+<iframe
+  height="450"
+  width="800"
+  src="https://www.figma.com/embed?embed_host=astra&url=\
+       https://www.figma.com/proto/QOjbM6N4G981K4gHLX7D6X/DH-110-Assignment-07?node-id=21%3A112&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=21%3A112"
+  allowfullscreen
+/>
 
 ## Pitch
 
