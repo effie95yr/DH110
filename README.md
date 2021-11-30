@@ -35,7 +35,7 @@ Read more about the [empathy maps, journey maps, and personas](https://github.co
 ## Wireframe and graphic design element variation  
 Here is the documentation of the typography, shape, color theme, and layout of the interface design. 
 
-<img src="https://github.com/effie95yr/DH110/blob/main/Assignment_06/Bright2.png" alt="bright mode" height="600px"> 
+![Graphic design](https://github.com/effie95yr/DH110/blob/main/Assignment_06/Bright2.png)
 
 ### Typography 
 
@@ -111,14 +111,14 @@ An interactive map that allows people to browse pictures taken at the destinatio
 ### Task 2 
 A travel itinerary portal that allows people to create, edit, and manage their travel plans.
 
-<img src="https://github.com/effie95yr/DH110/blob/main/Assignment_05/low_fidelity.png" alt="low-fidelity prototype" height="600px"> 
+![low-fidelity prototype](https://github.com/effie95yr/DH110/blob/main/Assignment_05/low_fidelity.png)
 
 Read more about the [low-fidelity prototype](https://github.com/effie95yr/DH110/tree/main/Assignment_05#readme). 
 
 ## High-fidelity prototype 
 After designing a low-fidelity prototype and determining the graphic and interface designs, I designed the high-fidelity prototype. In the interactive prototype, potential users may create travel diaries, look for sightseeing places on a map, check information, and browse the travel pictures and diaries of other travelers. While I was designing the interface of the prototype, I reflected back on the results of the pilot usability test and aimed at designing a prototype that contrasts with the current webpage for visitors that is "old, cheap, and not easy to follow". I particularly paid attention to the accessibility of the interface. When I designed the wireflow of the high-fidelity prototype, I also reflected back on the initial heuristic evaluation and contextual inquiry to ensure that the prototype is not confusing and provides clear and accurate information for users.  
 
-<img src="https://github.com/effie95yr/DH110/blob/main/Assignment_07/High_fidelity_2.png" alt="high-fidelity prototype" height="600px"> 
+![high-fidelity prototype](https://github.com/effie95yr/DH110/blob/main/Assignment_07/High_fidelity_2.png)
 
 Read more about the [high-fidelity prototype](https://github.com/effie95yr/DH110/tree/main/Assignment_07#readme). 
 
