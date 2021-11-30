@@ -24,12 +24,25 @@ I then conducted a user study with the contextual inquiry method in order to gai
 Read more about the [contexual inquiry](https://github.com/effie95yr/DH110/tree/main/Assignment_03#readme). 
 
 ## UX Storytelling
+The first goal of my UX storytelling is to create personas that represent the potential users of my design, which is a website that helps travellers create and share travel plans based on accurate and up-to-date information. The second goal of my UX storytelling is to generate possible scenarios in which the potential users may find the design helpful. With UX Storytelling, I intend to put myself in the potential users' shoes and try to visualize their needs and challeges. I designed two personas for the project. 
+
+Read more about the [empathy maps, journey maps, and personas](https://github.com/effie95yr/DH110/tree/main/Assignment_03#readme). 
 
 ## Wireframe and graphic design element variation  
 
+Read more about the [graphic design](https://github.com/effie95yr/DH110/tree/main/Assignment_06#readme). 
+
 ## Low-fidelity prototype 
 
+Read more about the [low-fidelity prototype](https://github.com/effie95yr/DH110/tree/main/Assignment_05#readme). 
+
 ## High-fidelity prototype 
+
+Read more about the [high-fidelity prototype](https://github.com/effie95yr/DH110/tree/main/Assignment_07#readme). 
+
+## Evaluation and Revision 
+
+## Final prototype
 
 ## Pitch
 
