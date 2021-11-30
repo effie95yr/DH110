@@ -10,7 +10,10 @@ In my user research, I found that potential tourists of Hawaii have three major 
 
 
 ## Competitor Analysis 
-I conducted a competitor analysis of the existing 
+I conducted a competitor analysis of the existing page for travelers on the website of the Kauai County of Hawai.
+
+
+<img src=”https://github.com/effie95yr/DH110/blob/main/Assignment_01/county_of_kauai.png” height=”300px”> 
 
 Read more about the [heuristic evaluation](https://github.com/effie95yr/DH110/tree/main/Assignment_01#readme) and the [pilot usability testing](https://github.com/effie95yr/DH110/tree/main/Assignment02_Pilot_UT#readme). 
 
