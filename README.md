@@ -19,17 +19,19 @@ I also conducted a pilot usability test, where I specifically designed a scenari
 Read more about the [heuristic evaluation](https://github.com/effie95yr/DH110/tree/main/Assignment_01#readme) and the [pilot usability testing](https://github.com/effie95yr/DH110/tree/main/Assignment02_Pilot_UT#readme). 
 
 ## User Research 
-In order to better understand the needs of the target users, 
-
+I then conducted a user study with the contextual inquiry method in order to gain insights into how people employ Internet resources to plan trips. While potential users may turn to traditional solutions of this goal might include turning to travel guides, such as Lonely Planet, or rating websites such as Yelp and Tripadvisor, such platforms all have limitations such as inaccurate, subjective reviews on the dating websites or outdated information on travel guides. In the contextual inquiry, I found that the participant highly relied on reviews of previous travelers to gather basic information about accommodations, local transportation, and tourist attractions. In addition, the participant also tended to use the official government website could offer more accurate, up-to-date, and objective information. The participant also found the local health protocols particularly helpful during the pandemic. The participant also mentioned that the high density of the information on the official government website made it hard for users to quickly access the necessary information. The contextual inquiry presented me with the potential needs of the target users when performing the focus activity, which allowed me to further adjust my design. 
 
 Read more about the [contexual inquiry](https://github.com/effie95yr/DH110/tree/main/Assignment_03#readme). 
 
+## UX Storytelling
+
+## Wireframe and graphic design element variation  
+
+## Low-fidelity prototype 
+
+## High-fidelity prototype 
+
 ## Pitch
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://youtu.be/lhnf19JNL6A" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line →>
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lhnf19JNL6A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Conclusion 
+In summary, I learned a lot from the design process of this "Travel in Hawaii" application prototype. First of all, it allows me to learn about the necessary steps in the complete process of designing a prototype, including the initial competitor analysis, user research, and graphics and interface design. Specifically, I found the pilot usability test, the contextual inquiry, the impression test, and the cognitive walkthrough particularly helpful, as in these steps, I learned about how user experience research should be conducted to obtain feedback from the potential users. I think the design process generally went smoothly, but I also encountered several challenges. For instance, I found the graphics design particularly challenging as I found it rather difficult to find a color scheme that aesthetically fits the ideal style of the application while keeping the accessibility. I learned about the importance of adopting color contrast and text size to make the application more accessible. In conclusion, I found the project offers a really valuable opportunity to actually learn about user design and user experience research in a hands-on way. 
