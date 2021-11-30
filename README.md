@@ -131,7 +131,7 @@ Read more about the [impression test](https://github.com/effie95yr/DH110/tree/ma
 
 ## Final prototype
 
-Please find the final prototype [here[https://www.figma.com/proto/QOjbM6N4G981K4gHLX7D6X/DH-110-Assignment-07?node-id=21%3A128&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=21%3A112). 
+Please find the final prototype [here](https://www.figma.com/proto/QOjbM6N4G981K4gHLX7D6X/DH-110-Assignment-07?node-id=21%3A128&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=21%3A112). 
 
 ## Pitch
 
