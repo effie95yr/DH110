@@ -77,11 +77,11 @@ Background color of frame: #FCFAED
 
 Primary color: #1F2904
 
-Focus color of search box: #CFDBAD 
+Focus color of search box: #4B7976
 
-Focus color of log-in button: #FFDD6E
+Focus color of log-in button: #0F71CB
 
-Background color of overlay: BAB5AB
+Background color of overlay: #4B7976
 
 ### Dark Color Mode 
 Background color: 1F2904
