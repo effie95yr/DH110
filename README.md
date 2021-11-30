@@ -34,7 +34,7 @@ Read more about the [empathy maps, journey maps, and personas](https://github.co
 
 ## Wireframe and graphic design element variation  
 Here is the documentation of the typography, shape, color theme, and layout of the interface design. 
-<img src="https://github.com/effie95yr/DH110/blob/main/Assignment_06/Bright2.png" alt="bright mode" height="300px"> 
+<img src="https://github.com/effie95yr/DH110/blob/main/Assignment_06/Bright2.png" alt="bright mode" height="600px"> 
 
 ### Typography 
 Typeface of brand name: Pacifico
