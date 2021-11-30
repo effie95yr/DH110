@@ -24,7 +24,7 @@ I then conducted a user study with the contextual inquiry method in order to gai
 Read more about the [contexual inquiry](https://github.com/effie95yr/DH110/tree/main/Assignment_03#readme). 
 
 ## UX Storytelling
-The first goal of my UX storytelling is to create personas that represent the potential users of my design, which is a website that helps travellers create and share travel plans based on accurate and up-to-date information. The second goal of my UX storytelling is to generate possible scenarios in which the potential users may find the design helpful. With UX Storytelling, I intend to put myself in the potential users' shoes and try to visualize their needs and challeges. I designed two personas for the project. 
+The first goal of my UX storytelling is to create personas that represent the potential users of my design, which is a website that helps travellers create and share travel plans based on accurate and up-to-date information. The second goal of my UX storytelling is to generate possible scenarios in which the potential users may find the design helpful. With UX Storytelling, I intend to put myself in the potential users' shoes and try to visualize their needs and challeges. I designed two personas for the project. The needs of the first persona is to interact with other travelers oneline and share her own travel memories. The needs of the second persona is to find ideal destinations of her family trip and to make trip plans, budget plans, and travel logs.
 
 <img src="https://github.com/effie95yr/DH110/blob/main/Assignment_04/Persona1.png" alt="persona 1" height="300px">
 
@@ -34,9 +34,11 @@ Read more about the [empathy maps, journey maps, and personas](https://github.co
 
 ## Wireframe and graphic design element variation  
 Here is the documentation of the typography, shape, color theme, and layout of the interface design. 
+
 <img src="https://github.com/effie95yr/DH110/blob/main/Assignment_06/Bright2.png" alt="bright mode" height="600px"> 
 
 ### Typography 
+
 Typeface of brand name: Pacifico
 
 Typerface of text: Quattrocento Sans
@@ -101,6 +103,15 @@ Margin: 10
 Read more about the [graphic design](https://github.com/effie95yr/DH110/tree/main/Assignment_06#readme). 
 
 ## Low-fidelity prototype 
+The purpose of designing and testing the low-fidelity prototype is to gain insights from potential users to assess whether the current design is easy to interact with. More importantly, the low-fidelity prototype allows the designers to create an initial sketch of the ultimate design in a low-cost and less time-consuming way. Furthermore, during the test, the designers are able to identify potential design errors and further improve the design by reflecting on where the users get confused or get stuck. I designed a low-fidelity prototype that should let the users perform the following two tasks. 
+
+### Task 1 
+An interactive map that allows people to browse pictures taken at the destination, which further link to the destination and the travel diaries of users.
+
+### Task 2 
+A travel itinerary portal that allows people to create, edit, and manage their travel plans.
+
+<img src="https://github.com/effie95yr/DH110/blob/main/Assignment_05/low_fidelity.png" alt="bright mode" height="600px"> 
 
 Read more about the [low-fidelity prototype](https://github.com/effie95yr/DH110/tree/main/Assignment_05#readme). 
 
@@ -114,13 +125,13 @@ I conducted an impression test for the initial graphic design. According to the 
 
 Read more about the [impression test](https://github.com/effie95yr/DH110/tree/main/Assignment_06#impression-test). 
 
-### Cognitive walkthrough 
-I  also conducted a cognitive walkthrough 
-
-
 ## Final prototype
 
+
+
 ## Pitch
+
+Please watch the pitch here. 
 
 ## Conclusion 
 In summary, I learned a lot from the design process of this "Travel in Hawaii" application prototype. First of all, it allows me to learn about the necessary steps in the complete process of designing a prototype, including the initial competitor analysis, user research, and graphics and interface design. Specifically, I found the pilot usability test, the contextual inquiry, the impression test, and the cognitive walkthrough particularly helpful, as in these steps, I learned about how user experience research should be conducted to obtain feedback from the potential users. I think the design process generally went smoothly, but I also encountered several challenges. For instance, I found the graphics design particularly challenging as I found it rather difficult to find a color scheme that aesthetically fits the ideal style of the application while keeping the accessibility. I learned about the importance of adopting color contrast and text size to make the application more accessible. In conclusion, I found the project offers a really valuable opportunity to actually learn about user design and user experience research in a hands-on way. 
