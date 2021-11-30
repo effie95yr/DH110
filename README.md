@@ -26,14 +26,77 @@ Read more about the [contexual inquiry](https://github.com/effie95yr/DH110/tree/
 ## UX Storytelling
 The first goal of my UX storytelling is to create personas that represent the potential users of my design, which is a website that helps travellers create and share travel plans based on accurate and up-to-date information. The second goal of my UX storytelling is to generate possible scenarios in which the potential users may find the design helpful. With UX Storytelling, I intend to put myself in the potential users' shoes and try to visualize their needs and challeges. I designed two personas for the project. 
 
-<img src="https://github.com/effie95yr/DH110/blob/main/Assignment_04/Persona1.png" alt="page for visitors" height="300px">
+<img src="https://github.com/effie95yr/DH110/blob/main/Assignment_04/Persona1.png" alt="persona 1" height="300px">
 
-<img src="https://github.com/effie95yr/DH110/blob/main/Assignment_04/Persona2.png" alt="page for visitors" height="300px">
-
+<img src="https://github.com/effie95yr/DH110/blob/main/Assignment_04/Persona2.png" alt="persona 2" height="300px">
 
 Read more about the [empathy maps, journey maps, and personas](https://github.com/effie95yr/DH110/tree/main/Assignment_03#readme). 
 
 ## Wireframe and graphic design element variation  
+Here is the documentation of the typography, shape, color theme, and layout of the interface design. 
+<img src="https://github.com/effie95yr/DH110/blob/main/Assignment_06/Bright2.png" alt="bright mode" height="300px"> 
+
+### Typography 
+Typeface of brand name: Pacifico
+
+Typerface of text: Quattrocento Sans
+
+Brand name size: 30
+
+Body text size: 20
+
+Title text size: 26
+
+Button label: 20
+
+Caption: 20
+
+Letter-spacing: Default
+
+Line-spacing: 1.5
+
+Padding: Center alignment 
+
+### Shape 
+Roundeness setting of buttons: 10
+
+Roundeness setting of interactive map: 10
+
+Roundeness setting of search result overlay: 10
+
+Roundeness setting of photos: 0 
+
+Roundeness setting of bottom left photo: 10 for the bottom left corner, 0 for the rest 
+
+Roundeness setting of bottom right photo: 10 for the bottom right corner, 0 for the rest 
+
+### Bright Color Mode 
+Background color of frame: #FCFAED
+
+Primary color: #1F2904
+
+Focus color of search box: #CFDBAD 
+
+Focus color of log-in button: #FFDD6E
+
+Background color of overlay: BAB5AB
+
+### Dark Color Mode 
+Background color: 1F2904
+
+Primary color: #FCFAED
+
+Focus color of search box: #585E48
+
+Focus color of log-in button and overlay: #54524E
+
+### Layout 
+8 columns and 14 rows 
+
+Gutter: 10 
+
+Margin: 10 
+
 
 Read more about the [graphic design](https://github.com/effie95yr/DH110/tree/main/Assignment_06#readme). 
 
@@ -46,6 +109,14 @@ Read more about the [low-fidelity prototype](https://github.com/effie95yr/DH110/
 Read more about the [high-fidelity prototype](https://github.com/effie95yr/DH110/tree/main/Assignment_07#readme). 
 
 ## Evaluation and Revision 
+### Impression test for grahpic design 
+I conducted an impression test for the initial graphic design. According to the participant, there was some issue with the background color of a photo gallery feature. I then adjusted the color theme of the feature based on the feedback. 
+
+Read more about the [impression test](https://github.com/effie95yr/DH110/tree/main/Assignment_06#impression-test). 
+
+### Cognitive walkthrough 
+I  also conducted a cognitive walkthrough 
+
 
 ## Final prototype
 
