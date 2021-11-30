@@ -26,16 +26,17 @@ Read more about the [contexual inquiry](https://github.com/effie95yr/DH110/tree/
 ## UX Storytelling
 The first goal of my UX storytelling is to create personas that represent the potential users of my design, which is a website that helps travelers create and share travel plans based on accurate and up-to-date information. The second goal of my UX storytelling is to generate possible scenarios in which the potential users may find the design helpful. With UX Storytelling, I intend to put myself in the potential users' shoes and try to visualize their needs and challenges. I designed two personas for the project. The need of the first persona is to interact with other travelers online and share her own travel memories. The needs of the second persona are to find the ideal destinations for her family trip and to make trip plans, budget plans, and travel logs.
 
-![Persona 1](https://github.com/effie95yr/DH110/blob/main/Assignment_04/Persona1.png)
+<img src="https://github.com/effie95yr/DH110/raw/main/Assignment_04/Persona1.png" alt="persona 1" height="300px">
 
-![Persona 2](https://github.com/effie95yr/DH110/blob/main/Assignment_04/Persona2.png)
+<img src="https://github.com/effie95yr/DH110/raw/main/Assignment_04/Persona2.png" alt="persona 2" height="300px">
 
 Read more about the [empathy maps, journey maps, and personas](https://github.com/effie95yr/DH110/tree/main/Assignment_03#readme). 
 
 ## Wireframe and graphic design element variation  
 Here is the documentation of the typography, shape, color theme, and layout of the interface design. 
 
-![Graphic design](https://github.com/effie95yr/DH110/blob/main/Assignment_06/Bright2.png)
+<img src="https://github.com/effie95yr/DH110/raw/main/Assignment_06/Bright2.png" alt="graphic design" height="600px"> 
+
 
 ### Typography 
 
@@ -111,14 +112,14 @@ An interactive map that allows people to browse pictures taken at the destinatio
 ### Task 2 
 A travel itinerary portal that allows people to create, edit, and manage their travel plans.
 
-![low-fidelity prototype](https://github.com/effie95yr/DH110/blob/main/Assignment_05/low_fidelity.png)
+<img src="https://github.com/effie95yr/DH110/raw/main/Assignment_05/low_fidelity.png" alt="low-fidelity prototype" height="600px"> 
 
 Read more about the [low-fidelity prototype](https://github.com/effie95yr/DH110/tree/main/Assignment_05#readme). 
 
 ## High-fidelity prototype 
 After designing a low-fidelity prototype and determining the graphic and interface designs, I designed the high-fidelity prototype. In the interactive prototype, potential users may create travel diaries, look for sightseeing places on a map, check information, and browse the travel pictures and diaries of other travelers. While I was designing the interface of the prototype, I reflected back on the results of the pilot usability test and aimed at designing a prototype that contrasts with the current webpage for visitors that is "old, cheap, and not easy to follow". I particularly paid attention to the accessibility of the interface. When I designed the wireflow of the high-fidelity prototype, I also reflected back on the initial heuristic evaluation and contextual inquiry to make sure that the prototype is not confusing and provides clear and accurate information for users.  
 
-![high-fidelity prototype](https://github.com/effie95yr/DH110/blob/main/Assignment_07/High_fidelity_2.png)
+<img src="https://github.com/effie95yr/DH110/raw/main/Assignment_07/High_fidelity_2.png" alt="high-fidelity prototype" height="600px"> 
 
 Read more about the [high-fidelity prototype](https://github.com/effie95yr/DH110/tree/main/Assignment_07#readme). 
 
