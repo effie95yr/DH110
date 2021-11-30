@@ -14,6 +14,8 @@ I conducted a competitor analysis of the existing page for travelers on the webs
 
 <img src=”https://github.com/effie95yr/DH110/blob/main/Assignment_01/county_of_kauai.png” height=”300px”> 
 
+![image_caption](https://github.com/effie95yr/DH110/blob/main/Assignment_01/county_of_kauai.png)
+
 I also conducted a pilot usability test, where I specifically designed a scenario for potential visitors and recruited one participant to actually perform the task and and further examined whether the issues found in the heuristic evaluation actually negatively affect the user experience of the website. The usability test helped me recognize the design issues of the website more accurately from the perspective of users.
 
 Read more about the [heuristic evaluation](https://github.com/effie95yr/DH110/tree/main/Assignment_01#readme) and the [pilot usability testing](https://github.com/effie95yr/DH110/tree/main/Assignment02_Pilot_UT#readme). 
