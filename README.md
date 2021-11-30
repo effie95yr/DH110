@@ -136,7 +136,7 @@ Please find the final prototype [here](https://www.figma.com/proto/QOjbM6N4G981K
 
 ## Pitch
 
-Please watch the pitch here. 
+Please watch the pitch [here](https://ucla.zoom.us/rec/share/F1Oml9ERMo638R-Ync2Rortq7Ho5dzYSGi5wANhOlKDn8qmeOhvVQitCZkYh_HU.FP7Bx7_anZ8yTdeB). 
 
 ## Conclusion 
 In summary, I learned a lot from the design process of this "Travel in Hawaii" application prototype. First of all, it allows me to learn about the necessary steps in the complete process of designing a prototype, including the initial competitor analysis, user research, and graphics and interface design. Specifically, I found the pilot usability test, the contextual inquiry, the impression test, and the cognitive walkthrough particularly helpful, as in these steps, I learned about how user experience research should be conducted to obtain feedback from the potential users. I think the design process generally went smoothly, but I also encountered several challenges. For instance, I found the graphics design particularly challenging as I found it rather difficult to find a color scheme that aesthetically fits the ideal style of the application while keeping the accessibility. I learned about the importance of adopting color contrast and text size to make the application more accessible. In conclusion, I found the project offers a really valuable opportunity to let me actually learn about user design and user experience research in a hands-on way. 
