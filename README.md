@@ -19,6 +19,16 @@ I also conducted a pilot usability test, where I specifically designed a scenari
 Read more about the [heuristic evaluation](https://github.com/effie95yr/DH110/tree/main/Assignment_01#readme) and the [pilot usability testing](https://github.com/effie95yr/DH110/tree/main/Assignment02_Pilot_UT#readme). 
 
 ## User Research 
+In order to better understand the needs of the target users, 
 
+
+Read more about the [contexual inquiry](https://github.com/effie95yr/DH110/tree/main/Assignment_03#readme). 
+
+## Pitch
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://youtu.be/lhnf19JNL6A" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line →>
 
 
